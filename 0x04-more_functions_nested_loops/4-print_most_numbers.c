@@ -4,7 +4,7 @@
  * Descreption :Pints the number excludig 2 and 4
  * Return: The number since 0 up to 9 .
  */
-void print_most_numbers(void);
+void print_most_numbers(void)
 {
 	int x = 0;
 
